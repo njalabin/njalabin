@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @njalabin
-- 👀 I’m interested in ... the little things. Love watching anime and superhero movies.
-- 🌱 I’m currently learning ... HTML, CSS and JavaScript; hopefully become a web developer in the very near future.
-- 💞️ I’m looking to collaborate on ... nothing as of yet
-- 📫 How to reach me ... send me an email at neiljoyce.alabin@yahoo.com
+- 👀 I’m interested in the little things. Hobbies include watching anime and superhero movies, playing computer games, and spending time with my wife and daughter.
+- 🌱 I’m currently learning to be a full-stack developer in hopes of having a great career path.
+- 💞️ I’m looking to collaborate on open-source projects when the time comes.
+- 📫 YOu can reach me neiljoyce.alabin@yahoo.com
 
 <!---
 njalabin/njalabin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
