@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @njalabin
-- 👀 I’m interested in the little things. Hobbies include watching anime and superhero movies, playing computer games, and spending time with my wife and daughter.
+- 👋 Hi, I’m Neil.
+- 👀 I’m interested in practicing my French. I love spending time with my family.
 - 🌱 I’m currently learning to be a full-stack developer in hopes of having a great career path.
 - 💞️ I’m looking to collaborate on open-source projects when the time comes.
 - 📫 You can reach me neiljoyce.alabin@yahoo.com
